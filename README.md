@@ -1,1 +1,1 @@
-# Projeto Finalizado Utilizando apenas conceitos de Bootstrap, aprendidos no primeiro ano de S.I da Fiap.
+# Projeto Finalizado Utilizando conceitos de Bootstrap, aprendidos no primeiro ano de S.I da Fiap.
