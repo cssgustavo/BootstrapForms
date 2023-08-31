@@ -1,1 +1,3 @@
-# Projeto Finalizado Utilizando conceitos de Bootstrap, aprendidos no primeiro ano de S.I da Fiap.
+# Pequeno projeto Bootstrap! 👨‍💻
+Feito usando conceitos de Colunas do boootstrap, linguagem sensacional! 
+Deploy: https://cssgustavo.github.io/BootstrapFroms/
